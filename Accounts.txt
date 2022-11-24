@@ -1,0 +1,7 @@
+*ADMIN
+Username: faraneta
+Password: admin
+
+*USERS
+Username: ktapot
+Password: admin
